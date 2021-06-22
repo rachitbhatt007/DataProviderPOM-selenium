@@ -1,0 +1,26 @@
+{
+  "FormData": [
+    {
+  "FirstName": "Rachit",
+  "LastName": "Bhatt",
+  "Gender": "Male",
+  "email": "rachit.bhatt007@gmail.com",
+  "number": 22
+},
+{
+  "FirstName": "John",
+"LastName": "Edkins",
+"Gender": "Male",
+"email": "JohnEdkins@gmail.com",
+"number": 33
+},
+    {
+      "FirstName": "Blake",
+      "LastName": "Lively",
+      "Gender": "Female",
+      "email": "BlakeLively@gmail.com",
+      "number": 33
+    }
+  ]}
+
+
